@@ -28,5 +28,3 @@ This tool is used to verify email of any discord token. It can claim unclaimed t
 
 Send me some money if you are going to skid. My LTC address: LPBUWzJ1aaFccTfnExCpQetJdwMy1VLZ8f.
 Do not DM me for help, I will ignore you and block you. I cannot explain on how to use it better than I already have.
-
-
